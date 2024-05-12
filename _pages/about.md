@@ -6,13 +6,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+Embedding YouTube
+======
+
 Here is a test edit, and inclusion of a YouTube video. Instructions were taken from:
 [Quick tip: embedding YouTube Videos in GitHub pages](https://christianheilmann.com/2022/09/14/quick-tip-embedding-youtube-videos-in-github-pages/)
 
 {% include youtube.html id="dQw4w9WgXcQ" %}
 
 
-And here's another method using "iframes":
+And here's another method using "iframes", taken from [Stackoverflow: How can I embed a YouTube video on GitHub wiki pages?](https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-github-wiki-pages)
+
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
 frameborder="0" 
