@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 Here is a test edit, and inclusion of a YouTube video. Instructions were taken from:
-https://christianheilmann.com/2022/09/14/quick-tip-embedding-youtube-videos-in-github-pages/
+[Quick tip: embedding YouTube Videos in GitHub pages](https://christianheilmann.com/2022/09/14/quick-tip-embedding-youtube-videos-in-github-pages/)
 
 {% include youtube.html id="dQw4w9WgXcQ" %}
 
