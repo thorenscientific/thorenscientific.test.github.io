@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Thorenscientific Stuff"
+title: "Thorenscientific"
 author_profile: true
 redirect_from: 
   - /about/
